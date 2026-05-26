@@ -1,4 +1,4 @@
-# CrtASC
+# CtrASC
 An Interpretable Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Pan-squamous Differentiation Spectrum
 
 ## 🧔: Authors [*Corresponding author]
@@ -12,7 +12,7 @@ Pan Huang, Xinwei Zhang, Zheng Gu, Yiwen Wang, Zhenglin Ji, Guoqing Fu, Chentao 
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Circult Rule Trees based-Active Semi-fuzzy Clustering (CrtASC)** method:
+Here's an overview of our **Circult-trees Rule-guided Active Semi-fuzzy Clustering (CrtASC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
@@ -29,12 +29,12 @@ Here's an overview of our **Circult Rule Trees based-Active Semi-fuzzy Clusterin
 
 ## 🛠️ Getting Started
 
-To get started with **CrtASC**, follow the installation instructions below.
+To get started with **CtrASC**, follow the installation instructions below.
 
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/Baron-Huang/CrtASC
+git clone https://github.com/Baron-Huang/CtrASC
 ```
 
 2. Install dependencies
