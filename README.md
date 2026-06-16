@@ -2,7 +2,7 @@
 An Interpretable Pan-squamous Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Differentiation Spectrum 
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang*, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Mingrui Ma*, Chentao Li*, Jing Qin*, and Yifang Ping*
+Pan Huang*, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Mingrui Ma*, Chentao Li*, Jing Qin*, Xiuwu Bian*, and Yifang Ping*
 
 ## :fire: News
 
@@ -12,9 +12,9 @@ Pan Huang*, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Mingrui
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Circult-trees Rule-guided Active Semi-fuzzy Clustering (CrtASC)** method:
+Here's an overview of our **Continuum-aware de-ambiguation grading paradigm**:
 
-![Figure 1](./images/xxx.jpg)
+![Figure 1](./images/Figure_1.jpg)
 
 
 
