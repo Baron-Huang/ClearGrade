@@ -2,7 +2,7 @@
 An Interpretable Pan-squamous Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Differentiation Spectrum 
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesco Mercaldo, Antonella Santone, Cheng Chen*, Chentao Li*, Jing Qin*, Xiuwu Bian*, and Yifang Ping*
+Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesco Mercaldo, Antonella Santone, Kurban Ubul, Binglin Ma, Mingrui Ma*, Chentao Li*, Xiuwu Bian*, Yifang Ping*, and Jing Qin*
 
 ## :fire: News
 
