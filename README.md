@@ -1,5 +1,5 @@
-# CtrASC
-An Interpretable Pan-squamous Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Differentiation Spectrum 
+# ClearGrade
+ClearGrade resolves Pathological Grading Ambiguity across the Pan-squamous Differentiation Continuum
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesco Mercaldo, Antonella Santone, Kurban Ubul, Binglin Ma, Mingrui Ma*, Chentao Li*, Xiuwu Bian*, Yifang Ping*, and Jing Qin*
@@ -12,7 +12,7 @@ Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesc
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Continuum-aware de-ambiguation grading paradigm**:
+Here's an overview of our **Continuum-aware de-ambiguation grading paradigm (ClearGrade)**:
 
 ![Figure 1](./Images/Figure_1.jpg)
 
