@@ -14,7 +14,7 @@ Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesc
 
 Here's an overview of our **Continuum-aware de-ambiguation grading paradigm (ClearGrade)**:
 
-![Figure 1](./Images/Figure_1.jpg)
+![Figure 1](./Images/Figure_2.jpg)
 
 
 
