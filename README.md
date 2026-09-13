@@ -6,7 +6,7 @@ Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Lan Wang, Zilai Yao,
 
 ## :fire: News
 
-- [xxx/xxx/xxx] xxx
+- [xxx/xxx/xxx] Submitted to __Nature (IF 56.099)__
 
 
 
