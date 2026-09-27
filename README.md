@@ -16,6 +16,8 @@ Here's an overview of our **Continuum-aware de-ambiguation grading paradigm (Cle
 
 ![Figure 1](./Images/Figure_2.jpg)
 
+**Overview of the ClearGrade framework**, i.e., a continuum-aware ambiguity-resolving pathological grading framework. (**a**). Training stage of ClearGrade. (**b**). Inference stage of ClearGrade. (**c**). Model interpretability assessment. ICALE plot of ClearGrade on AMU-CSCC. (**d**). Active semi-fuzzy clustering (ASC). (**e**). 2D representation by different biomarkers of ClearGrade on AMU-CSCC. (**f**). 、Pathologists can use ClearGrade to improve their ability to identify ambiguous grading cases. (**g**). Counterfactual-interaction mixing circuits. (**h**). AUC performance comparison on InterSGBench. (**i**). Region of interest grading similarity comparison with real experts. (**j**). Subjective assessment. (**k**). Internal validation in top-10 cohorts, Multi-center (MC). (**l**). Within-SCC external validation in top-20 cohorts, Multi-center (MC). (**m**). CMC rule visualization on Hancock-Oropharynx test index 62.
+
 
 
 ## :mag: TODO
