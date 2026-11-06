@@ -1,5 +1,4 @@
-# ClearGrade
-ClearGrade translates the squamous differentiation continuum into interpretable grading evidence
+# ClearGrade translates the squamous differentiation continuum into interpretable grading evidence
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Binglin Ma, Lan Wang, Zilai Yao, Francesco Mercaldo, Antonella Santone, Qiye Chen, Andi Liu, Jingyao Jia, Weiqian Liao, Guoqing Fu, Kurban Ubul, Xinyu Hao, Mingrui Ma*,Chentao Li*, Xiaoyi Lv*, Jing Qin*, and Yifang Ping*
